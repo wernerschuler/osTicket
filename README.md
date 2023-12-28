@@ -98,7 +98,10 @@ Installation
    - To test the installation go to a web browser and enter 127.0.0.1
  
 - **Download and install PHP Manager for IIS:**
-   - Download from the link: https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
+   - From your VM
+   - Download PHP Manager from: https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
+   - Once the download is complete go to File Explorer --> Downloads --> PHPManagerForIIS
+   - Click Next --> Check I Agree --> Next --> Close
 
  
    
