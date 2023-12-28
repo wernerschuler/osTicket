@@ -102,6 +102,22 @@ Installation
    - Download PHP Manager from: https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
    - Once the download is complete go to File Explorer --> Downloads --> PHPManagerForIIS
    - Click Next --> Check I Agree --> Next --> Close
+ 
+- **Download and install the Rewrite module:**
+  - Use the link: https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
+  - Go to File Explorer --> Downloads --> rewrite_amd64_en-US --> Check Accept --> Install
+ 
+- **Create the Directory C:PHP**
+  - Go to File Explorer --> This PC --> Windows (C:)
+  - Right Click --> New --> Folder --> Name the folder PHP
+ 
+- **Download PHP and unzip the contents into C:PHP**
+   - Download from: https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link
+   - Go to File Explorer --> Downloads --> Right Click the PHP file --> Extract All... --> Browse --> This PC --> Windows (C:) --> PHP --> Select Folder --> Extract
+ 
+- **Download and install Visual C++ Redistributable:**
+  - Download from https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
+  - Go File Explorer --> Downloads --> VC_redist.x86 --> Agree --> Install
 
  
    
