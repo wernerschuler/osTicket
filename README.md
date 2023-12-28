@@ -81,3 +81,21 @@ Installation
 <img src="https://i.imgur.com/lZhuXJ5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
 </p>
 
+- **Install/ enable Internet Information Services (IIS) with CGI and Common HTTP Features:**
+   - From your VM
+   - Right click Start
+   - Click Run
+   - Type Control panel, then click OK
+   - Click Programs
+   - Click Turn Windows features on or off
+   - Check Internet Information Services, then expand it
+   - Expand World Wide Web Services
+   - Expand Application Development Features
+   - Check CGI
+   - Collapse Application Development Features
+   - Expand Common HTTP Features and check every box
+   - Click OK
+   - To test the installation go to a web browser and enter 127.0.0.1
+ 
+  https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link 
+
