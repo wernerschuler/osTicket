@@ -119,10 +119,14 @@ Installation
   - Download from https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
   - Go File Explorer --> Downloads --> VC_redist.x86 --> Agree --> Install
  
-- **Download and install MySQL:***
+- **Download and install MySQL:**
   - Download MySQL from https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
   - When on the setup page --> Next --> Accept --> Next --> Typical --> Install --> Check 'Launch the MySQL Instance Configuration Wizard' --> Finish
   - When on the configuration wizard --> Standard Configuration --> Next --> Enter a password --> Next --> Execute --> Finish
+ 
+- **Open IIS as an Admin:**
+ 
+
 
  
    
