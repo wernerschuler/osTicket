@@ -155,7 +155,34 @@ Installation
 
 - **Set permissions to ost-config.php**
   - Go to ost-config.php --> Right click, Properties --> Security --> Advanced --> Disable inheritance --> Remove all inherited permissions from this object --> Add --> Select a principal --> Type 'everyone' into box --> Check Names --> OK --> Check 'Full control' --> OK --> Apply --> OK
-     
+ 
+- **Setup osTicket in the browser**
+   - Go to osTicket --> Click Continue
+   - Add Helpdesk Name & email
+   - Add details for Admin user
+
+- **Download and install HeidiSQL**
+  - Use link https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
+  - Go to Downloads folder --> Click HeidiSQL --> Accept, Next --> Next --> Install --> Check 'Launch HeidiSQL' --> Finish
+  - In HeidiSQL --> New --> Enter MySQL username and password --> Open
+ 
+- **In HeidiSQL create a new database**
+  - Right click Unnamed --> Create new --> Database --> Enter the name osTicket --> OK
+ 
+- **Continue Setting up osTicket in the broswer**
+  - MySQL Database: osTicket
+  - Enter MySQL username & password
+  - Click Install Now
+
+- **Clean up:
+  - Delete: C:\inetpub\wwwroot\osTicket\setup
+  - Set permissions of C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read only:
+    - Right click ost-config.php --> Properties --> Security --> Advanced --> Everyone --> Edit --> Uncheck all apart from Read --> OK
+
+- Notes:
+ - Link to admin: http://localhost/osTicket/scp/login.php
+ - Link to end user: http://localhost/osTicket/
+
  
 
 
