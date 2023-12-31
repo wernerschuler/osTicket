@@ -134,13 +134,13 @@ Installation
    - Go to the osTicket file you just downloaded --> drop the upload file into "c:\inetpub\wwwroot" folder
    - rename upload folder to osTicket
  
--**Restart IIS:***
+- **Restart IIS:**
   - Go to IIS --> Restart
 
-- Go to Sites --> Default Web Site --> osTicket --> On the right click Browse * 80
-- If done correctly an osTicket page will appear
+  - Go to Sites --> Default Web Site --> osTicket --> On the right click Browse * 80
+  - If done correctly an osTicket page will appear
 
--**Notice some extenstions are not enabled**
+- **Notice some extenstions are not enabled**
   - Go back to IIS sites --> Default --> osTicket
   - Double-click PHP manager
   - Click Enable or disable and extension
@@ -149,7 +149,7 @@ Installation
       - php_opache.dll
   - Refresh the browser and observe the changes
 
--**Rename ost-sampleconfig**
+- **Rename ost-sampleconfig**
  - From: C:inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
  - To: C:inetpub\wwwroot\osTicket\include\ost-config.php
 
@@ -174,14 +174,14 @@ Installation
   - Enter MySQL username & password
   - Click Install Now
 
-- **Clean up:
+- **Clean up:**
   - Delete: C:\inetpub\wwwroot\osTicket\setup
   - Set permissions of C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read only:
     - Right click ost-config.php --> Properties --> Security --> Advanced --> Everyone --> Edit --> Uncheck all apart from Read --> OK
 
 - Notes:
- - Link to admin: http://localhost/osTicket/scp/login.php
- - Link to end user: http://localhost/osTicket/
+  - Link to admin: http://localhost/osTicket/scp/login.php
+  - Link to end user: http://localhost/osTicket/
 
  
 
