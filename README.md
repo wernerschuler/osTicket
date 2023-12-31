@@ -133,6 +133,28 @@ Installation
    - Use link https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
    - Go to the osTicket file you just downloaded --> drop the upload file into "c:\inetpub\wwwroot" folder
    - rename upload folder to osTicket
+ 
+-**Restart IIS:***
+  - Go to IIS --> Restart
+
+- Go to Sites --> Default Web Site --> osTicket --> On the right click Browse * 80
+- If done correctly an osTicket page will appear
+
+-**Notice some extenstions are not enabled**
+  - Go back to IIS sites --> Default --> osTicket
+  - Double-click PHP manager
+  - Click Enable or disable and extension
+      - Enable php_imap.dll
+      - php_intl.dll
+      - php_opache.dll
+  - Refresh the browser and observe the changes
+
+-**Rename ost-sampleconfig**
+ - From: C:inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+ - To: C:inetpub\wwwroot\osTicket\include\ost-config.php
+
+- **Set permissions to ost-config.php**
+  - Go to ost-config.php --> Right click, Properties --> Security --> Advanced --> Disable inheritance --> Remove all inherited permissions from this object --> Add --> Select a principal --> Type 'everyone' into box --> Check Names --> OK --> Check 'Full control' --> OK --> Apply --> OK
      
  
 
