@@ -125,6 +125,15 @@ Installation
   - When on the configuration wizard --> Standard Configuration --> Next --> Enter a password --> Next --> Execute --> Finish
  
 - **Open IIS as an Admin:**
+- Click Start --> Type IIS --> Right click 'Run as administrator'
+- PHP Manager --> Register new PHP version --> Click the symbol with 3 dots --> Windows (C:) --> PHP --> php-cgi --> OK
+- Click Restart
+
+- **Install osTicket**
+   - Use link https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
+   - Go to the osTicket file you just downloaded --> drop the upload file into "c:\inetpub\wwwroot" folder
+   - rename upload folder to osTicket
+     
  
 
 
