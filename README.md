@@ -190,7 +190,15 @@ Post Installation Setup
   - Click Start --> Type and enter Remote Desktop Connection --> Enter the username and password for the VM
 
 - **Bring up the osTicket website:**
-  - Copy and paste this URL into a web broswer: http://localhost/osTicket/ 
+  - Copy and paste this URL into a web broswer: http://localhost/osTicket/
+  - Login with the credentials you created for osTicket
+ 
+- **Configure roles**
+  - Admin panel --> Agents --> Roles --> Add New Role
+  - Name: Supreme Admin
+  - Permissions --> Tickets --> Check all boxes
+  - Tasks --> Check all booxes
+  - Knowledgebase --> Check Premade --> Save Changes 
 
  
 
