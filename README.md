@@ -182,6 +182,15 @@ Installation
 - Notes:
   - Link to admin: http://localhost/osTicket/scp/login.php
   - Link to end user: http://localhost/osTicket/
+ 
+Post Installation Setup
+--- 
+
+- **If you have not already, login to your VM:**
+  - Click Start --> Type and enter Remote Desktop Connection --> Enter the username and password for the VM
+
+- **Bring up the osTicket website:**
+  - Copy and paste this URL into a web broswer: 
 
  
 
