@@ -190,7 +190,7 @@ Post Installation Setup
   - Click Start --> Type and enter Remote Desktop Connection --> Enter the username and password for the VM
 
 - **Bring up the osTicket website:**
-  - Copy and paste this URL into a web broswer: 
+  - Copy and paste this URL into a web broswer: http://localhost/osTicket/ 
 
  
 
