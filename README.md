@@ -204,6 +204,20 @@ Post Installation Setup
   - Admin panel --> Agents --> Departments --> Add New Department
   - Give the department a name
   - Create the department with default settings
+ 
+- **Configure teams**
+  - Admin panel --> Agents --> Teams --> Add New Team
+  - A the team name --> Members --> Select Agent --> Add a member --> Create Team
+ 
+- **Permit anyone to generate tickets**
+  - Admin panel --> Settings --> Users
+  - Make sure 'Require registration and login to create tickets' is unchecked
+ 
+- **Configure Agents**
+  - Admin panel --> Agents --> Add New Agent
+  - Give the agent a name --> Email address --> Username --> Password --> Uncheck 'Send the agent a password reset email' and 'Require password change at next login' --> Set
+  - Teams --> Select a team --> Add --> Create  
+  
 
  
 
