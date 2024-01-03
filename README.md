@@ -198,7 +198,12 @@ Post Installation Setup
   - Name: Supreme Admin
   - Permissions --> Tickets --> Check all boxes
   - Tasks --> Check all booxes
-  - Knowledgebase --> Check Premade --> Save Changes 
+  - Knowledgebase --> Check Premade --> Save Changes
+
+- **Configure a department**
+  - Admin panel --> Agents --> Departments --> Add New Department
+  - Give the department a name
+  - Create the department with default settings
 
  
 
