@@ -36,25 +36,24 @@ Create Virtual Machine in Azure
 </p>
 <p>
 
-- **Create Virtual machine:**
-   - Search Virtual machines
-   - Click Create, then Azure virtual machine
+- **Create Virtual machine:** (example in the images below)
+   - Search 'Virtual machines' --> Create --> Azure virtual machine
    - Pick the Resource group you created in the previous step
    - Give the virtual machine a name
    - Set your Region
    - Set your Image to Windows 10
    - Set your Size to 2 vcpus or more
    - Enter a username and password
-   - Check the confirm box
+   - Check the box 'I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.'
    - Click Review + create
-   - Click Create
+   - Once validation is complete click Create
 
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r7xnE0W.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p> <br> <br>
 
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4quyOqW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p> <br> <br>
 
 <p>
