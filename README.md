@@ -56,24 +56,15 @@ Create Virtual Machine in Azure
 <img src="https://i.imgur.com/4quyOqW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p> 
 
-<p>
-<img src="https://i.imgur.com/VtAimzn.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
-</p>
-
 Installation 
 --- 
 - **Remote desktop into the virtual machine you created:**
-   - Copy the public IP address of the VM
-   - Click Start
-   - Type and select Remote Desktop Connection
-   - Paste the public IP address of the VM
-   - Click Connect
-   - Click More choices
-   - Click Use a different account
-   - Enter the username and password you created for this VM
+   - Copy the public IP address of the VM (Virtual machine) --> Start --> Search 'Remote Desktop Connection'
+   - Paste public IP address of VM --> More choices --> Use a different account --> Enter the username and password you created for the VM
+
      
 <p>
-<img src="https://i.imgur.com/lZhuXJ5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
+<img src="https://i.imgur.com/iuAsq07.png" height="60%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
 </p>
 
 - **Install/ enable Internet Information Services (IIS) with CGI and Common HTTP Features:**
