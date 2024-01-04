@@ -217,7 +217,19 @@ Post Installation Setup
   - Admin panel --> Agents --> Add New Agent
   - Give the agent a name --> Email address --> Username --> Password --> Uncheck 'Send the agent a password reset email' and 'Require password change at next login' --> Set
   - Teams --> Select a team --> Add --> Create  
-  
+
+- **Configure Users**
+  - Agent Panel --> Users --> Add User
+  - Enter user detail --> Add User
+ 
+- **Configure Service level agreement (SLA)**
+  - Admin Panel --> Manage --> SLA --> Add New SLA Plan
+  - Enter SLA information --> Add Plan
+ 
+- **Configure Help Topics**
+  - Admin Panel --> Manage --> Help Topics --> Add New Help Topic
+  - Enter help topic information --> Add Topic
+***when doing it yourself give 1 or 2 e.g.***
 
  
 
