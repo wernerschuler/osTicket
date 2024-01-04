@@ -50,11 +50,11 @@ Create Virtual Machine in Azure
 
 <p>
 <img src="https://i.imgur.com/r7xnE0W.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-</p> <br> <br>
+</p> 
 
 <p>
 <img src="https://i.imgur.com/4quyOqW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-</p> <br> <br>
+</p> 
 
 <p>
 <img src="https://i.imgur.com/VtAimzn.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
