@@ -36,7 +36,7 @@ Create Virtual Machine in Azure
     - Click Create  <br>
 
 <p>
-<img src="https://i.imgur.com/SOEwjm2.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -54,11 +54,11 @@ Create Virtual Machine in Azure
    - Click Create
 
 <p>
-<img src="https://i.imgur.com/aOgR4s4.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p> <br> <br>
 
 <p>
-<img src="https://i.imgur.com/L3vKuMQ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p> <br> <br>
 
 <p>
