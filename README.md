@@ -28,15 +28,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Create Virtual Machine in Azure
 --- 
 - **Create a Resource Group:**
-    - Go to portal.azure.com
-    - Click Resource groups
-    - Click Create
-    - Enter the name and region
-    - Click Review + create
-    - Click Create  <br>
-
+    - Go to portal.azure.com --> Resource groups --> Create
+    - Enter a name for the Resource group --> Select Region
+    - Review + create --> Create
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LFDvGOb.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
