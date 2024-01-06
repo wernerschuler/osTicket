@@ -78,13 +78,15 @@ Installation
    
     - Click Turn Windows features on or off --> Check Internet Information Services, then expand it --> Expand World Wide Web Services <br> --> Expand Application Development Features --> Check CGI
 
-
-<img src="https://i.imgur.com/tnRlBhc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <br> <br>
-
+  
+  <img src="https://i.imgur.com/tnRlBhc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <br> <br>
+  
+  
    - Collapse Application Development Features
    - Expand Common HTTP Features and check every box
    - Click OK
    - To test the installation go to a web browser and enter 127.0.0.1
+  
  
 - **Download and install PHP Manager for IIS:**
    - From your VM
