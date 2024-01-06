@@ -138,10 +138,17 @@ Installation
   - When on the setup page --> Next --> Accept --> Next --> Typical --> Install --> Check 'Launch the MySQL Instance Configuration Wizard' --> Finish
   - When on the configuration wizard --> Standard Configuration --> Next --> Enter a password --> Next --> Execute --> Finish
  
+    <img src="https://i.imgur.com/fjPZTip.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+    <br> <br>
+ 
 - **Open IIS as an Admin:**
-- Click Start --> Type IIS --> Right click 'Run as administrator'
-- PHP Manager --> Register new PHP version --> Click the symbol with 3 dots --> Windows (C:) --> PHP --> php-cgi --> OK
-- Click Restart
+  - Click Start --> Type IIS --> Right click 'Run as administrator'
+  - PHP Manager --> Register new PHP version --> Click the symbol with 3 dots --> Windows (C:) --> PHP --> php-cgi --> OK
+ 
+    <img src="https://i.imgur.com/UdVn1nr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+    <img src="https://i.imgur.com/bPbhTEH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+  - Click Restart
 
 - **Install osTicket**
    - Use link https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
