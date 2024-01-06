@@ -90,10 +90,12 @@ Installation
   <br> 
  
 - **Download and install PHP Manager for IIS:** 
-   - From your VM
-   - Download PHP Manager from: https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
+   - Copy and paste this link into a web browser in your VM: https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
    - Once the download is complete go to File Explorer --> Downloads --> PHPManagerForIIS
    - Click Next --> Check I Agree --> Next --> Close
+   - Image below shows the completed installation of PHP Manager
+     
+     <img src="https://i.imgur.com/OGUaaaH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **Download and install the Rewrite module:**
   - Use the link: https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
