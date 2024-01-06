@@ -128,6 +128,10 @@ Installation
 - **Download and install Visual C++ Redistributable:**
   - Download from https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
   - Go File Explorer --> Downloads --> VC_redist.x86 --> Agree --> Install
+  - Image below shows the installation is successful
+ 
+    <img src="https://i.imgur.com/zVEOptG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+    <br> <br>
  
 - **Download and install MySQL:**
   - Download MySQL from https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
