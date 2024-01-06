@@ -96,10 +96,15 @@ Installation
    - Image below shows the completed installation of PHP Manager
      
      <img src="https://i.imgur.com/OGUaaaH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+   <br>
  
 - **Download and install the Rewrite module:**
-  - Use the link: https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
+  - Copy and paste this link into a web browser in your VM: https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
   - Go to File Explorer --> Downloads --> rewrite_amd64_en-US --> Check Accept --> Install
+  - Image below shows the finished installation of the Rewrite module
+   
+    <img src="https://i.imgur.com/DkGUvw0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+    <br>
  
 - **Create the Directory C:PHP**
   - Go to File Explorer --> This PC --> Windows (C:)
