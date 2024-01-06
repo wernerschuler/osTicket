@@ -109,6 +109,10 @@ Installation
 - **Create the Directory C:PHP**
   - Go to File Explorer --> This PC --> Windows (C:)
   - Right Click --> New --> Folder --> Name the folder PHP
+  - As shown in the image below
+    
+    <img src="https://i.imgur.com/NonfxWP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+    <br> <br>
  
 - **Download PHP and unzip the contents into C:PHP**
    - Download from: https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link
