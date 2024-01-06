@@ -87,7 +87,7 @@ Installation
    - To test that the installation has worked go to a web browser and enter 127.0.0.1 the browser should take you to a website that looks like the image below.
      
      <img src="https://i.imgur.com/Qjc9OpI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
-  
+  <br> 
  
 - **Download and install PHP Manager for IIS:** 
    - From your VM
