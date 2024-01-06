@@ -120,13 +120,13 @@ Installation
      
      <img src="https://i.imgur.com/J21xuyu.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
      
-   - Go to File Explorer --> Downloads --> Right Click the PHP file --> Extract All... --> Browse --> This PC --> Windows (C:) --> PHP --> Select Folder --> Extract (Picted below)
+   - Go to File Explorer --> Downloads --> Right Click the PHP file --> Extract All... --> Browse --> This PC --> Windows (C:) --> PHP --> Select Folder --> Extract (Pictured below)
 
      <img src="https://i.imgur.com/YHcjc0h.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
    <br>  
  
 - **Download and install Visual C++ Redistributable:**
-  - Download from https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
+  - Copy and paste this link into a web browser in your VM: https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
   - Go File Explorer --> Downloads --> VC_redist.x86 --> Agree --> Install
   - Image below shows the installation is successful
  
