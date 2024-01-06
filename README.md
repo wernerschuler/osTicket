@@ -49,11 +49,11 @@ Create Virtual Machine in Azure
    - Once validation is complete click Create
 
 <p>
-<img src="https://i.imgur.com/r7xnE0W.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r7xnE0W.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p> 
 
 <p>
-<img src="https://i.imgur.com/4quyOqW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kmdac0J.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p> 
 
 Installation 
@@ -64,7 +64,11 @@ Installation
 
      
 <p>
-<img src="https://i.imgur.com/iuAsq07.png" height="60%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
+<img src="https://i.imgur.com/4ta2zJM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <br> <br>
+</p>
+
+<p>
+<img src="https://i.imgur.com/I12PhDC.png" height="60%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
 </p>
 
 - **Install/ enable Internet Information Services (IIS) with CGI and Common HTTP Features:**
