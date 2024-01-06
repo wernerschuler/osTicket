@@ -36,7 +36,7 @@ Create Virtual Machine in Azure
 </p>
 <p>
 
-- **Create Virtual machine:** (example in the images below)
+- **Create a Virtual machine:** (example in the images below)
    - Search 'Virtual machines' --> Create --> Azure virtual machine
    - Pick the Resource group you created in the previous step
    - Give the virtual machine a name
