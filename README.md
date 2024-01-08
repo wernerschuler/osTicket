@@ -191,10 +191,18 @@ Installation
 - **Set permissions to ost-config.php**
   - Go to ost-config.php --> Right click, Properties --> Security --> Advanced --> Disable inheritance --> Remove all inherited permissions from this object --> Add --> Select a principal --> Type 'everyone' into box --> Check Names --> OK --> Check 'Full control' --> OK --> Apply --> OK
  
+    <img src="https://i.imgur.com/FTQLx9V.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+    <img src="https://i.imgur.com/loVp181.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ 
 - **Setup osTicket in the browser**
    - Go to osTicket --> Click Continue
    - Add Helpdesk Name & email
    - Add details for Admin user
+
+    <img src="https://i.imgur.com/bPuq29x.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+
 
 - **Download and install HeidiSQL**
   - Use link https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
