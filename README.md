@@ -152,7 +152,11 @@ Installation
 
 - **Install osTicket**
    - Use link https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
-   - Go to the osTicket file you just downloaded --> drop the upload file into "c:\inetpub\wwwroot" folder
+   - Go to the osTicket file you just downloaded --> drag and drop the upload file into "c:\inetpub\wwwroot" folder 
+
+     <img src="https://i.imgur.com/VNw5jrg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+     
    - rename upload folder to osTicket
  
 - **Restart IIS:**
