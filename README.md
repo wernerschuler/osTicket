@@ -142,7 +142,7 @@ Installation
     <br> <br>
  
 - **Open IIS as an Admin:**
-  - Click Start --> Type IIS --> Right click 'Run as administrator'
+  - Click Start --> Type IIS --> Click 'Run as administrator'
   - PHP Manager --> Register new PHP version --> Click the symbol with 3 dots --> Windows (C:) --> PHP --> php-cgi --> OK
  
     <img src="https://i.imgur.com/UdVn1nr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -155,15 +155,23 @@ Installation
    - Go to the osTicket file you just downloaded --> drag and drop the upload file into "c:\inetpub\wwwroot" folder 
 
      <img src="https://i.imgur.com/VNw5jrg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-
-     
+  
    - rename upload folder to osTicket
  
+     <img src="https://i.imgur.com/8mc9ZwZ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ 
 - **Restart IIS:**
-  - Go to IIS --> Restart
+  - Click Start --> Type IIS --> Click'Run as administrator' --> Click Restart
+    
+    <img src="https://i.imgur.com/RY87upx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
   - Go to Sites --> Default Web Site --> osTicket --> On the right click Browse * 80
-  - If done correctly an osTicket page will appear
+
+    <img src="https://i.imgur.com/hteVZeB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+     
+  - If done correctly an osTicket page will appear like the image below
+ 
+    <img src="https://i.imgur.com/bvnFuBR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - **Notice some extenstions are not enabled**
   - Go back to IIS sites --> Default --> osTicket
@@ -175,8 +183,10 @@ Installation
   - Refresh the browser and observe the changes
 
 - **Rename ost-sampleconfig**
- - From: C:inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
- - To: C:inetpub\wwwroot\osTicket\include\ost-config.php
+  - From: C:inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+  - To: C:inetpub\wwwroot\osTicket\include\ost-config.php
+ 
+    <img src="https://i.imgur.com/nmNgpuM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - **Set permissions to ost-config.php**
   - Go to ost-config.php --> Right click, Properties --> Security --> Advanced --> Disable inheritance --> Remove all inherited permissions from this object --> Add --> Select a principal --> Type 'everyone' into box --> Check Names --> OK --> Check 'Full control' --> OK --> Apply --> OK
