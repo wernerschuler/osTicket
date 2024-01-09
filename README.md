@@ -148,7 +148,7 @@ Installation
     <img src="https://i.imgur.com/UdVn1nr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
     <img src="https://i.imgur.com/bPbhTEH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-  - Click Restart
+  - Click Restart ***Maybe get rid**
 
 - **Install osTicket**
    - Use link https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
