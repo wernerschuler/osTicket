@@ -270,6 +270,8 @@ Post Installation Setup
   - Admin panel --> Settings --> Users
   - Make sure 'Require registration and login to create tickets' is unchecked
  
+    <img src="https://i.imgur.com/2PgKHEq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ 
 - **Configure Agents**
   - Admin panel --> Agents --> Add New Agent
   - Give the agent a name --> Email address --> Username --> Password --> Uncheck 'Send the agent a password reset email' and 'Require password change at next login' --> Set
