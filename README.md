@@ -220,6 +220,8 @@ Installation
   - MySQL Database: osTicket
   - Enter MySQL username & password
   - Click Install Now
+ 
+    <img src="https://i.imgur.com/Mmdt8SA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - **Clean up:**
   - Delete: C:\inetpub\wwwroot\osTicket\setup
