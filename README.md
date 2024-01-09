@@ -256,11 +256,15 @@ Post Installation Setup
 - **Configure a department**
   - Admin panel --> Agents --> Departments --> Add New Department
   - Give the department a name
-  - Create the department with default settings
+  - Create the department with default settings --> Click Create Dept
+
+    <img src="https://i.imgur.com/ulYCgQA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **Configure teams**
   - Admin panel --> Agents --> Teams --> Add New Team
-  - A the team name --> Members --> Select Agent --> Add a member --> Create Team
+  - Enter a team name --> Members --> Select Agent --> Add a member --> Create Team
+
+    <img src="https://i.imgur.com/lEFEx3F.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **Permit anyone to generate tickets**
   - Admin panel --> Settings --> Users
