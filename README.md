@@ -205,7 +205,7 @@ Installation
 
 
 - **Download and install HeidiSQL**
-  - Use link https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
+  - Copy and paste this link to a browser in the VM: https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
   - Go to Downloads folder --> Click HeidiSQL --> Accept, Next --> Next --> Install --> Check 'Launch HeidiSQL' --> Finish
   - In HeidiSQL --> New --> Enter MySQL username and password --> Open
  
