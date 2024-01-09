@@ -214,6 +214,8 @@ Installation
 - **In HeidiSQL create a new database**
   - Right click Unnamed --> Create new --> Database --> Enter the name osTicket --> OK
  
+    <img src="https://i.imgur.com/pBSgXEC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ 
 - **Continue Setting up osTicket in the broswer**
   - MySQL Database: osTicket
   - Enter MySQL username & password
