@@ -176,7 +176,7 @@ Installation
 - **Notice some extenstions are not enabled**
   - Go back to IIS sites --> Default --> osTicket
   - Double-click PHP manager
-  - Click Enable or disable and extension
+  - Click Enable or disable an extension
       - Enable php_imap.dll
       - php_intl.dll
       - php_opache.dll
