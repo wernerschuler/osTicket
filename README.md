@@ -226,7 +226,7 @@ Installation
 - **Clean up:**
   - Delete: C:\inetpub\wwwroot\osTicket\setup  ***Note: delete just setup folder***
   - Set permissions of C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read only:
-    - Right click ost-config.php --> Properties --> Security --> Advanced --> Everyone --> Edit --> Uncheck all apart from Read --> OK
+    - Right click ost-config.php --> Properties --> Security --> Advanced --> Everyone --> Edit --> Uncheck all apart from Read --> OK --> Apply --> OK
 
 - Notes:
   - Link to admin: http://localhost/osTicket/scp/login.php
