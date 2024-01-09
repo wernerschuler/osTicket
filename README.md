@@ -208,6 +208,8 @@ Installation
   - Copy and paste this link to a browser in the VM: https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
   - Go to Downloads folder --> Click HeidiSQL --> Accept, Next --> Next --> Next --> Next --> Next --> Install --> Check 'Launch HeidiSQL' --> Finish
   - In HeidiSQL --> New --> Enter MySQL username and password --> Open
+
+    <img src="https://i.imgur.com/3PBbJ2p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **In HeidiSQL create a new database**
   - Right click Unnamed --> Create new --> Database --> Enter the name osTicket --> OK
