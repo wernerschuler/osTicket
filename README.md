@@ -249,7 +249,7 @@ Post Installation Setup
   - Name: Supreme Admin
   - Permissions --> Tickets --> Check all boxes
   - Tasks --> Check all booxes
-  - Knowledgebase --> Check Premade --> Add role
+  - Knowledgebase --> Check Premade --> Add Role
  
     <img src="https://i.imgur.com/PQuuCE7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
