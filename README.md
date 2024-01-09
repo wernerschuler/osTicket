@@ -242,14 +242,16 @@ Post Installation Setup
   - Copy and paste this URL into a web broswer in your VM: http://localhost/osTicket/scp/login.php 
   - Login with the credentials you created for osTicket
 
-    <img src="https://i.imgur.com/Mmdt8SA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/ZGzDWvl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **Configure roles**
   - Admin panel --> Agents --> Roles --> Add New Role
   - Name: Supreme Admin
   - Permissions --> Tickets --> Check all boxes
   - Tasks --> Check all booxes
-  - Knowledgebase --> Check Premade --> Save Changes
+  - Knowledgebase --> Check Premade --> Add role
+ 
+    <img src="https://i.imgur.com/PQuuCE7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - **Configure a department**
   - Admin panel --> Agents --> Departments --> Add New Department
