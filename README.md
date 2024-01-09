@@ -239,8 +239,10 @@ Post Installation Setup
   - Click Start --> Type and enter Remote Desktop Connection --> Enter the username and password for the VM
 
 - **Bring up the osTicket website:**
-  - Copy and paste this URL into a web broswer: http://localhost/osTicket/scp/login.php 
+  - Copy and paste this URL into a web broswer in your VM: http://localhost/osTicket/scp/login.php 
   - Login with the credentials you created for osTicket
+
+    <img src="https://i.imgur.com/Mmdt8SA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **Configure roles**
   - Admin panel --> Agents --> Roles --> Add New Role
