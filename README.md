@@ -282,9 +282,11 @@ Post Installation Setup
 
     <img src="https://i.imgur.com/MkXLM2X.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-- **Configure Users**
+- **Configure Users (Customers)**
   - Agent Panel --> Users --> Add User
-  - Enter user detail --> Add User
+  - Enter information on the user --> Add User
+
+    <img src="https://i.imgur.com/Zf3zpt7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **Configure Service level agreement (SLA)**
   - Admin Panel --> Manage --> SLA --> Add New SLA Plan
