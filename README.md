@@ -248,7 +248,7 @@ Post Installation Setup
   - Admin panel --> Agents --> Roles --> Add New Role
   - Name: Supreme Admin
   - Permissions --> Tickets --> Check all boxes
-  - Tasks --> Check all booxes
+  - Tasks --> Check all boxes
   - Knowledgebase --> Check Premade --> Add Role
  
     <img src="https://i.imgur.com/PQuuCE7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
