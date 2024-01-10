@@ -272,10 +272,15 @@ Post Installation Setup
  
     <img src="https://i.imgur.com/2PgKHEq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
-- **Configure Agents**
+- **Configure Agents (Helpdesk professionals)**
   - Admin panel --> Agents --> Add New Agent
-  - Give the agent a name --> Email address --> Username --> Password --> Uncheck 'Send the agent a password reset email' and 'Require password change at next login' --> Set
-  - Teams --> Select a team --> Add --> Create  
+  - Give the agent a name --> Email address --> Username --> Set Password --> Uncheck 'Send the agent a password reset email' and 'Require password change at next login' --> Set
+  - Access --> Select Department --> Select Role
+  - Teams --> Select Team
+  - Set Permissions 
+  - Create
+
+    <img src="https://i.imgur.com/MkXLM2X.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - **Configure Users**
   - Agent Panel --> Users --> Add User
