@@ -148,8 +148,12 @@ Installation
     <img src="https://i.imgur.com/UdVn1nr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
     <img src="https://i.imgur.com/bPbhTEH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-  - Click Restart ***Maybe get rid**
 
+- **Restart IIS:**
+  - Click the VM name at the top left of IIS --> Click Restart (image below)
+ 
+    <img src="https://i.imgur.com/gnUy9cm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+    
 - **Install osTicket**
    - Use link https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
    - Go to the osTicket file you just downloaded --> drag and drop the upload file into "c:\inetpub\wwwroot" folder 
