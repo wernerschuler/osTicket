@@ -296,6 +296,8 @@ Post Installation Setup
   - Admin Panel --> Manage --> SLA --> Add New SLA Plan
   - Enter SLA information --> Add Plan
  
+    <img src="https://i.imgur.com/lQxADUc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+ 
 - **Configure Help Topics**
   - Admin Panel --> Manage --> Help Topics --> Add New Help Topic
   - Enter help topic information --> Add Topic
