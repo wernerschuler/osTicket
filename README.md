@@ -301,7 +301,9 @@ Post Installation Setup
 - **Configure Help Topics**
   - Admin Panel --> Manage --> Help Topics --> Add New Help Topic
   - Enter help topic information --> Add Topic
-***when doing it yourself give 1 or 2 e.g.***
+ 
+    <img src="https://i.imgur.com/ZT9obZm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
 
 - **Tickets and Ticket Lifecycle**
   
