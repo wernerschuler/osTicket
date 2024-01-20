@@ -27,7 +27,7 @@ Create Virtual Machine in Azure
     - Enter a name for the Resource group --> Select Region
     - Review + create --> Create
 <p>
-<img src="https://i.imgur.com/LFDvGOb.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LFDvGOb.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -44,11 +44,11 @@ Create Virtual Machine in Azure
    - Once validation is complete click Create
 
 <p>
-<img src="https://i.imgur.com/r7xnE0W.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r7xnE0W.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p> 
 
 <p>
-<img src="https://i.imgur.com/kmdac0J.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kmdac0J.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p> 
 
 Installation 
@@ -59,17 +59,17 @@ Installation
 
      
 <p>
-<img src="https://i.imgur.com/4ta2zJM.png" height="80%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
+<img src="https://i.imgur.com/4ta2zJM.png" height="50%" width="80%" alt="Disk Sanitization Steps"/> <br> <br>
 </p>
 
 <p>
-<img src="https://i.imgur.com/I12PhDC.png" height="60%" width="70%" alt="Disk Sanitization Steps"/> <br> <br>
+<img src="https://i.imgur.com/I12PhDC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <br> <br>
 </p>
 
 - **Install/ enable Internet Information Services (IIS) with CGI and Common HTTP Features:**
    - From your VM --> Right click Start --> Run --> Type Control panel, then click OK --> Click Programs <br>
      
-   <img src="https://i.imgur.com/0xKFL9P.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <br>
+   <img src="https://i.imgur.com/0xKFL9P.png" height="50%" width="60%" alt="Disk Sanitization Steps"/> <br>
    
     - Click Turn Windows features on or off --> Check Internet Information Services, then expand it --> Expand World Wide Web Services <br> --> Expand Application Development Features --> Check CGI
 
