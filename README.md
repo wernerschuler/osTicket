@@ -297,12 +297,7 @@ Post Installation Setup
     <img src="https://i.imgur.com/ZT9obZm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
-Using osTicket
---
 
-- **Login as a customer and create a ticket**
-  - Copy and paste this link to a browser to bring up the end user login page: http://localhost/osTicket/
-  - Click 'Open a New Ticket'
 
 
   
