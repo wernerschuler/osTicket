@@ -5,13 +5,13 @@
 Tutorial outlines:
 --
 - Prerequisites and installation of the open-source help desk ticketing system osTicket.
-- Post installation configurations of the help desk ticketing system osTicket.
+- Post-installation configurations of the help desk ticketing system osTicket.
   
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -20,7 +20,7 @@ Tutorial outlines:
 
 <h2>Steps</h2>
 
-Create Virtual Machine in Azure
+Create a Virtual Machine in Azure
 --- 
 - **Create a Resource Group:**
     - Go to portal.azure.com --> Resource groups --> Create
@@ -55,7 +55,7 @@ Installation
 --- 
 - **Remote desktop into the virtual machine you created:**
    - Copy the public IP address of the VM (Virtual machine) --> Start --> Search 'Remote Desktop Connection'
-   - Paste public IP address of VM --> More choices --> Use a different account --> Enter the username and password you created for the VM
+   - Paste the public IP address of the VM --> More choices --> Use a different account --> Enter the username and password you created for the VM
 
      
 <p>
@@ -79,7 +79,7 @@ Installation
   
    - Collapse Application Development Features --> Expand Common HTTP Features & Check all boxes --> OK
      
-   - To test that the installation has worked go to a web browser and enter 127.0.0.1 the browser should take you to a website that looks like the image below.
+   - To test that the installation is working go to a web browser and enter 127.0.0.1 the browser should take you to a website that looks like the image below.
      
      <img src="https://i.imgur.com/Qjc9OpI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
   <br> 
@@ -123,7 +123,7 @@ Installation
 - **Download and install Visual C++ Redistributable:**
   - Copy and paste this link into a web browser in your VM: https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
   - Go File Explorer --> Downloads --> VC_redist.x86 --> Agree --> Install
-  - Image below shows the installation is successful
+  - Image below shows the installation was successful
  
     <img src="https://i.imgur.com/zVEOptG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
     <br> <br>
@@ -151,7 +151,7 @@ Installation
     
 - **Install osTicket**
    - Use link https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
-   - Go to the osTicket file you just downloaded --> drag and drop the upload file into "c:\inetpub\wwwroot" folder 
+   - Go to the osTicket file you just downloaded --> drag and drop the upload file into the "c:\inetpub\wwwroot" folder 
 
      <img src="https://i.imgur.com/VNw5jrg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
   
@@ -160,7 +160,7 @@ Installation
      <img src="https://i.imgur.com/8mc9ZwZ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 - **Restart IIS:**
-  - Click Start --> Type IIS --> Click'Run as administrator' --> Click Restart
+  - Click Start --> Type IIS --> Click 'Run as administrator' --> Click Restart
     
     <img src="https://i.imgur.com/RY87upx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
@@ -172,7 +172,7 @@ Installation
  
     <img src="https://i.imgur.com/bvnFuBR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-- **Notice some extenstions are not enabled**
+- **Notice some extensions are not enabled**
   - Go back to IIS sites --> Default --> osTicket
   - Double-click PHP manager
   - Click Enable or disable an extension
@@ -215,7 +215,7 @@ Installation
  
     <img src="https://i.imgur.com/pBSgXEC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
-- **Continue Setting up osTicket in the broswer**
+- **Continue Setting up osTicket in the browser**
   - MySQL Database: osTicket
   - Enter MySQL username & password
   - Click Install Now
@@ -223,7 +223,7 @@ Installation
     <img src="https://i.imgur.com/Mmdt8SA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - **Clean up:**
-  - Delete: C:\inetpub\wwwroot\osTicket\setup  ***Note: delete just setup folder***
+  - Delete: C:\inetpub\wwwroot\osTicket\setup  
   - Set permissions of C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read only:
     - Right click ost-config.php --> Properties --> Security --> Advanced --> Everyone --> Edit --> Uncheck all apart from Read --> OK --> Apply --> OK
 
@@ -238,7 +238,7 @@ Post Installation Setup
   - Click Start --> Type and enter Remote Desktop Connection --> Enter the username and password for the VM
 
 - **Bring up the osTicket website:**
-  - Copy and paste this URL into a web broswer in your VM: http://localhost/osTicket/scp/login.php 
+  - Copy and paste this URL into a web browser in your VM: http://localhost/osTicket/scp/login.php 
   - Login with the credentials you created for osTicket
 
     <img src="https://i.imgur.com/ZGzDWvl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
